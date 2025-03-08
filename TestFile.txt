@@ -1,1 +1,3 @@
 This is a sample commit via remote repository.
+
+This is another commit via local repository.
